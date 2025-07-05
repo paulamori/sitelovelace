@@ -1,15 +1,15 @@
 ## Mulheres que fizeram história na tecnologia: Ada Lovelace
-</br>
+
 As mulheres desempenharam e ainda desempenham papéis importantes no desenvolvimento da tecnologia. Em uma época onde o "papel de gênero" era fortemente imposto às mulheres, **Ada Lovelace** quebrou paradigmas e se tornou a primeira pessoa programadora da história. Posteriormente, Ada foi homenageada com uma linguagem de programação que leva seu nome. Neste site, abordamos um pouco de sua trajetória.
-</br>
+
 ![Retrato de Ada Lovelace em pé. Ela usa um longo vestido branco e olha para o lado direito.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/500px-Ada_Lovelace.jpg?20151219223900)
-</br>
+
 ## Desenvolvimento
-</br>
+
 Esse site foi desenvolvido durante o curso "Front-End: Minha primeira página web!" oferecido pela [Programaria](https://www.programaria.org/). O curso aborda os fundamentos de HTML, CSS e Javascript.
-</br>
+
 Esse site foi criado usando [GitHub Pages](https://pages.github.com/).
-</br>
+
 ## Modificações
-</br>
+
 Realizei algumas modificações em relação ao que foi proposto durante o curso. As principais alterações foram na cor do site, que originalmente deveria ser roxo; e na cor do texto, que deveria ser branco, ou seja, as cores principais da Programaria. Portanto, também alterei algumas cores de elementos, para que o design ficasse harmônico.
