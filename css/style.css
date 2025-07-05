@@ -2,6 +2,7 @@ body{
     text-align: center;
     background-color:#daacd5;
     font-family: Open Sans,sans-serif;
+    margin: 0px 0px 30px 0px;
 }
 h1{
     color:#a80f7a ;
@@ -24,8 +25,12 @@ h2{
 }
 
 section{
-    max-width: 60%;
+    width: 60%;
     margin:0 auto;
+}
+
+section section{
+  width: 100%;
 }
 
 h1{
@@ -57,4 +62,31 @@ a{
   text-decoration: none;
   color: #470526;
   font-weight: 700;
+}
+
+.principal {
+  background-color: #FF6CB5;
+  height: 40px;
+  max-width: 60%;
+  margin:0 auto;
+}
+
+.principal a{
+    color: white;
+    text-decoration: underline;
+    
+    font-weight: normal;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 85px;
+}
+
+button {
+  background-color: rgb(236, 91, 139);
+  border: 1px solid transparent;
+  border-radius: 3px;
+  padding: 2px 20px;
 }
