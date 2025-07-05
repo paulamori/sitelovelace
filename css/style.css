@@ -1,7 +1,60 @@
 body{
     text-align: center;
     background-color:#daacd5;
+    font-family: Open Sans,sans-serif;
 }
 h1{
     color:#a80f7a ;
+}
+
+h2{
+    color:#6b2055
+}
+
+.titulo-salmao{
+    color:#b66156;
+}
+
+.titulo-rosa-laranja{
+    color: #dd5975;
+}
+
+.titulo-rosa-pink{
+    color: #ad4c9c;
+}
+
+section{
+    max-width: 60%;
+    margin:0 auto;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+}
+
+h3{
+  font-size:22px;
+  font-style: italic;
+}
+
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img{
+  width: 100%;
+}
+
+ul{
+    list-style-type: none;
+    line-height: 2;
+}
+
+a{
+  text-decoration: none;
+  color: #470526;
+  font-weight: 700;
 }
