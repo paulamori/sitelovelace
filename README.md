@@ -6,9 +6,9 @@ As mulheres desempenharam e ainda desempenham papéis importantes no desenvolvim
 
 ## Desenvolvimento
 
-Esse site foi desenvolvido durante o curso "Front-End: Minha primeira página web!" oferecido pela [Programaria](https://www.programaria.org/). O curso aborda os fundamentos de HTML, CSS e Javascript.
+Esse site foi desenvolvido durante o curso "Front-End: Minha primeira página web!" oferecido pela [Programaria](https://www.programaria.org/). O curso aborda os fundamentos de HTML, CSS e Javascript para a criação de páginas web.
 
-Esse site foi criado usando [GitHub Pages](https://pages.github.com/).
+Esse site foi criado usando [GitHub Pages](https://pages.github.com/) e pode ser acessado [aqui](https://paulamori.github.io/sitelovelace/).
 
 ## Modificações
 
