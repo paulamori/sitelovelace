@@ -67,8 +67,12 @@ a{
 .principal {
   background-color: #FF6CB5;
   height: 40px;
-  max-width: 60%;
-  margin:0 auto;
+  max-width: 100%;      
+  margin: 0 auto;
+  display: flex;         
+  justify-content: center; 
+  align-items: center;   
+  flex-wrap: wrap;       
 }
 
 .principal a{
@@ -80,8 +84,7 @@ a{
 
 .principal li {
   display: inline-block;
-  line-height: 2.5;
-  margin: 0 85px;
+  margin: 0 20px;  
 }
 
 button {
