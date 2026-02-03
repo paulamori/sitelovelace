@@ -4,6 +4,11 @@ As mulheres desempenharam e ainda desempenham papéis importantes no desenvolvim
 
 ![Retrato de Ada Lovelace em pé. Ela usa um longo vestido branco e olha para o lado direito.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/500px-Ada_Lovelace.jpg?20151219223900)
 
+## Tecnologias usadas
+
+[![Javascrip,Html,Css](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+
 ## Desenvolvimento
 
 Esse site foi desenvolvido durante o curso "Front-End: Minha primeira página web!" oferecido pela [Programaria](https://www.programaria.org/). O curso aborda os fundamentos de HTML, CSS e Javascript para a criação de páginas web.
